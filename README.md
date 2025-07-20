@@ -101,12 +101,7 @@ mvn -Dtest=RegistrationTest test
 
 - Submits the form with invalid data.
 - Captures validation messages for all fields:
-  - `Name is required`
-  - `Email is required`
-  - `Phone Number is required`
-  - `Password is required`
-  - `Confirm Password is required`
-  - `Address is required`
+  
 
 ---
 
@@ -121,7 +116,7 @@ mvn -Dtest=RegistrationTest test
 
 **Hadeer Ali**  
 Senior Quality Control & Test Automation Engineer  
-📧 hadeer@example.com
+📧 hadeera001@gmail.com
 
 ---
 
@@ -133,11 +128,7 @@ Senior Quality Control & Test Automation Engineer
 
 ---
 
-## 📸 Screenshots (optional)
 
-_Add screenshots of your test run or emulator if needed._
-
----
 
 ## 📃 License
 
